@@ -32,4 +32,4 @@ Teste de rede útil: `nc -vz <host> 5432`. Teste direto no terminal: `psql "host
 ## Evidência
 Banco PostgreSQL (Render) conectado no DBeaver, com a contagem de linhas de cada tabela do e-commerce:
 
-![Contagem das tabelas no DBeaver](../evidencias/modulo01_contagem.png)
+![Contagem das tabelas no DBeaver](modulo01_contagem.png)
